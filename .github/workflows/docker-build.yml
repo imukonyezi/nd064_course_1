@@ -44,4 +44,4 @@ jobs:
           file: ./Dockerfile
           platforms: linux/amd64
           push: true
-          tags: imukonyezi/python-helloworld:latest
+          tags: imukonyezi/python-helloworld:v1.1.0
